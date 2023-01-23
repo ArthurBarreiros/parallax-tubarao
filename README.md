@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um site feito para por em prática, e aplicar o efeito de parallax, feito do 0 por mim.
+Um site feito para por em prática o efeito de parallax, criado do 0.
 
 ## :memo: Licença
 
